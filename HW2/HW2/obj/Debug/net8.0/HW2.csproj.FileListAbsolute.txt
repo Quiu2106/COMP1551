@@ -1,0 +1,14 @@
+D:\COMP1551\code\HW2\HW2\bin\Debug\net8.0\HW2.exe
+D:\COMP1551\code\HW2\HW2\bin\Debug\net8.0\HW2.deps.json
+D:\COMP1551\code\HW2\HW2\bin\Debug\net8.0\HW2.runtimeconfig.json
+D:\COMP1551\code\HW2\HW2\bin\Debug\net8.0\HW2.dll
+D:\COMP1551\code\HW2\HW2\bin\Debug\net8.0\HW2.pdb
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfoInputs.cache
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfo.cs
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\HW2.csproj.CoreCompileInputs.cache
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\HW2.dll
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\refint\HW2.dll
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\HW2.pdb
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\HW2.genruntimeconfig.cache
+D:\COMP1551\code\HW2\HW2\obj\Debug\net8.0\ref\HW2.dll
